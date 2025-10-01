@@ -44,3 +44,10 @@ body{
     padding: 10px;
     
 }
+
+#tajmer{
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #333;
+    font-weight: bold;
+}
